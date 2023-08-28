@@ -6,7 +6,7 @@
 
 
 
-# <center>Technical Article: Telcom Customer Churning Prediction Project</center>
+# <center>Telcom Customer Churning Prediction Project</center>
 [Author: MUGISHA Robert]
 
 ## **Introduction**
