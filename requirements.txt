@@ -1,0 +1,22 @@
+# Environment variable
+python-dotenv==0.21.0
+
+# Data collection
+pyodbc==4.0.34
+
+# Data manipulation and analysis
+numpy==1.25.0
+pandas==2.0.2
+
+# Data visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+plotly==5.16.1
+
+# Machine learning preprocessing
+scikit-learn==1.2.2
+imbalanced-learn==0.10.1
+scipy==1.10.0
+
+# Model persistence
+joblib==1.2.0
